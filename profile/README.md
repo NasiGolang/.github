@@ -1,5 +1,5 @@
 ## NasiGolang's web
-http://go.hwisaek.kro.kr  
+http://go.nasigolang.kro.kr/
 
 ## Tech Stack
 
