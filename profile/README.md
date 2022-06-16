@@ -1,5 +1,5 @@
-## NasiGolang's web
-https://nasigolang.github.io/
+## [NasiGolang's web](https://nasigolang.github.io/)
+나시고랭 웹 페이지
 
 ## Tech Stack
 
