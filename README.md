@@ -1,1 +1,1 @@
-# .githubw
+# .github
