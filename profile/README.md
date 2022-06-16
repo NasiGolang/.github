@@ -1,5 +1,5 @@
 ## NasiGolang's web
-http://go.nasigolang.kro.kr
+https://nasigolang.github.io/
 
 ## Tech Stack
 
